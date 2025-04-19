@@ -1,0 +1,34 @@
+
+ .order-section {
+   flex: 1;
+
+}
+
+.order-section h3 {
+   font-size: 20px;
+
+}
+
+.order-section p {
+   font-size: 14px;
+   color: #555;
+}
+
+table {
+   margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%; /* Adjust as necessary */
+}
+
+table, th, td {
+   border: 1px solid #ddd;
+}
+
+th, td {
+   padding: 8px;
+   text-align: left;
+}
+
+th {
+   background-color: #f2f2f2;
+}
